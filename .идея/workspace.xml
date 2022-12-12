@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d6e525d5-b686-4153-b416-5ebe810bb135" name="Changes" comment="Fixed back buttons 3">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/WebApp.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/webapp/Calculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/webapp/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/webapp/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/webapp/Authentication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/webapp/Calc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/webapp/ChangeCleanArea.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/webapp/ChangeCleanService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/webapp/ChangeCleanType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/webapp/CleanPrices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/webapp/CreatePDF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webapp/CreatePDF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/webapp/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/webapp/Promo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/webapp/SQLConnect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/webapp/Welcome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webapp/Welcome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/database/anime.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/Check.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/about.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/about.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/admin.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/authorization.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/admin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/style1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/style2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/result.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/result.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/welcome.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/welcome.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/webapp/CalcTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/webapp/CreatePDFTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/webapp/SQLConnectTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="27WAy6dPCUdcxGX1LYhsMScoUFB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/ruslan/IdeaProjects/kursovaya-team21&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.43545753&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/js" />
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/img" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="webapp" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn package" />
+      <command value="mvn clean" />
+      <command value="mvn clean deploy -P release" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.WebApp [package]">
+    <configuration name="CalcTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Komanda_17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="webapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="webapp" />
+      <option name="MAIN_CLASS_NAME" value="webapp.CalcTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalcTest.calculate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Komanda_17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="webapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="webapp" />
+      <option name="MAIN_CLASS_NAME" value="webapp.CalcTest" />
+      <option name="METHOD_NAME" value="calculate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreatePDFTest.create" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Komanda_17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="webapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="webapp" />
+      <option name="MAIN_CLASS_NAME" value="webapp.CreatePDFTest" />
+      <option name="METHOD_NAME" value="create" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreatePDFTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Komanda_17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="webapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="webapp" />
+      <option name="MAIN_CLASS_NAME" value="webapp.CreatePDFTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebApp [package]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.WebApp [package]" />
+        <item itemvalue="JUnit.CreatePDFTest.create" />
+        <item itemvalue="JUnit.CreatePDFTest.test" />
+        <item itemvalue="JUnit.CalcTest.calculate" />
+        <item itemvalue="JUnit.CalcTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6e525d5-b686-4153-b416-5ebe810bb135" name="Changes" comment="" />
+      <created>1649425721160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649425721160</updated>
+    </task>
+    <task id="LOCAL-00123" summary="Fix changing DB value 15">
+      <created>1651417645437</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1651417645438</updated>
+    </task>
+    <task id="LOCAL-00124" summary="Fix changing DB value 16">
+      <created>1651418080222</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1651418080222</updated>
+    </task>
+    <task id="LOCAL-00125" summary="Fix changing DB value 17">
+      <created>1651418559994</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1651418559994</updated>
+    </task>
+    <task id="LOCAL-00126" summary="Fix changing DB value 18">
+      <created>1651502046984</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1651502046984</updated>
+    </task>
+    <task id="LOCAL-00127" summary="Trying to add alert messages with JS">
+      <created>1651502912562</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1651502912563</updated>
+    </task>
+    <task id="LOCAL-00128" summary="Trying to add alert messages with JS 2">
+      <created>1651503148186</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1651503148186</updated>
+    </task>
+    <task id="LOCAL-00129" summary="Trying to add alert messages with JS 3">
+      <created>1651504440041</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1651504440042</updated>
+    </task>
+    <task id="LOCAL-00130" summary="Trying to add alert messages with JS 3">
+      <created>1651504860846</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1651504860846</updated>
+    </task>
+    <task id="LOCAL-00131" summary="Trying to add alert messages with JS 4">
+      <created>1651504987691</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1651504987691</updated>
+    </task>
+    <task id="LOCAL-00132" summary="Trying to add alert messages with JS 5">
+      <created>1651507206317</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1651507206317</updated>
+    </task>
+    <task id="LOCAL-00133" summary="Trying to add alert messages with JS 6">
+      <created>1651507268112</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1651507268112</updated>
+    </task>
+    <task id="LOCAL-00134" summary="Trying to add alert messages with JS 7">
+      <created>1651507792559</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1651507792559</updated>
+    </task>
+    <task id="LOCAL-00135" summary="Trying to add alert messages with JS 8">
+      <created>1651508162946</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1651508162946</updated>
+    </task>
+    <task id="LOCAL-00136" summary="Trying to add alert messages with JS 9">
+      <created>1651508765374</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1651508765374</updated>
+    </task>
+    <task id="LOCAL-00137" summary="Trying to add alert messages with JS 10">
+      <created>1651508892662</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1651508892662</updated>
+    </task>
+    <task id="LOCAL-00138" summary="Trying to add alert messages with JS 11">
+      <created>1651509275972</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1651509275972</updated>
+    </task>
+    <task id="LOCAL-00139" summary="Trying to add alert messages with JS 12">
+      <created>1651509518558</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1651509518558</updated>
+    </task>
+    <task id="LOCAL-00140" summary="Trying to add alert messages with JS 12">
+      <created>1651509641168</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1651509641168</updated>
+    </task>
+    <task id="LOCAL-00141" summary="Trying to add alert messages with JS 13">
+      <created>1651509800368</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1651509800368</updated>
+    </task>
+    <task id="LOCAL-00142" summary="Reset project">
+      <created>1651713438947</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1651713438947</updated>
+    </task>
+    <task id="LOCAL-00143" summary="Added unit-tests">
+      <created>1651717980321</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1651717980322</updated>
+    </task>
+    <task id="LOCAL-00144" summary="Testing JS messages">
+      <created>1652108053859</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1652108053860</updated>
+    </task>
+    <task id="LOCAL-00145" summary="Fixed JS script">
+      <created>1652108174916</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1652108174916</updated>
+    </task>
+    <task id="LOCAL-00146" summary="Fixed JS script 2">
+      <created>1652108278651</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1652108278651</updated>
+    </task>
+    <task id="LOCAL-00147" summary="Fixed JS script 3">
+      <created>1652108329647</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1652108329647</updated>
+    </task>
+    <task id="LOCAL-00148" summary="Fixed JS script 3">
+      <created>1652108390222</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1652108390223</updated>
+    </task>
+    <task id="LOCAL-00149" summary="Add promocode">
+      <created>1652109488598</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1652109488598</updated>
+    </task>
+    <task id="LOCAL-00150" summary="Add post method for index.jsp">
+      <created>1652109598691</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1652109598691</updated>
+    </task>
+    <task id="LOCAL-00151" summary="Fixed promo.java">
+      <created>1652109732831</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1652109732831</updated>
+    </task>
+    <task id="LOCAL-00152" summary="Changed admin.jsp">
+      <created>1652109960881</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1652109960881</updated>
+    </task>
+    <task id="LOCAL-00153" summary="Fixing promocode">
+      <created>1652110207374</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1652110207374</updated>
+    </task>
+    <task id="LOCAL-00154" summary="Fixing promocode 2">
+      <created>1652110355062</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1652110355062</updated>
+    </task>
+    <task id="LOCAL-00155" summary="Fixing promocode 3">
+      <created>1652110536734</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1652110536735</updated>
+    </task>
+    <task id="LOCAL-00156" summary="Fixing promocode 4">
+      <created>1652110635245</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1652110635245</updated>
+    </task>
+    <task id="LOCAL-00157" summary="Fixing promocode 5">
+      <created>1652110826514</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1652110826514</updated>
+    </task>
+    <task id="LOCAL-00158" summary="Fixing promocode 6">
+      <created>1652110917108</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1652110917108</updated>
+    </task>
+    <task id="LOCAL-00159" summary="Fixing promocode 7">
+      <created>1652111035533</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1652111035533</updated>
+    </task>
+    <task id="LOCAL-00160" summary="Fixing promocode 8">
+      <created>1652111089103</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1652111089103</updated>
+    </task>
+    <task id="LOCAL-00161" summary="Fixing promocode 9">
+      <created>1652111612840</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1652111612840</updated>
+    </task>
+    <task id="LOCAL-00162" summary="Fixing promocode 10">
+      <created>1652111801308</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1652111801308</updated>
+    </task>
+    <task id="LOCAL-00163" summary="Fixing promocode 11">
+      <created>1652111979318</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1652111979318</updated>
+    </task>
+    <task id="LOCAL-00164" summary="Fixing promocode 12">
+      <created>1652112098361</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1652112098361</updated>
+    </task>
+    <task id="LOCAL-00165" summary="Fixing promocode 13">
+      <created>1652112654063</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1652112654063</updated>
+    </task>
+    <task id="LOCAL-00166" summary="Fixing promocode 14">
+      <created>1652112967636</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1652112967636</updated>
+    </task>
+    <task id="LOCAL-00167" summary="Remove test things">
+      <created>1652113092507</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1652113092507</updated>
+    </task>
+    <task id="LOCAL-00168" summary="Add back buttons">
+      <created>1652260737711</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1652260737712</updated>
+    </task>
+    <task id="LOCAL-00169" summary="Fixed back buttons">
+      <created>1652261022108</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1652261022108</updated>
+    </task>
+    <task id="LOCAL-00170" summary="Fixed back buttons 2">
+      <created>1652261124573</created>
+      <option name="number" value="00170" />
+      <option name="presentableId" value="LOCAL-00170" />
+      <option name="project" value="LOCAL" />
+      <updated>1652261124573</updated>
+    </task>
+    <task id="LOCAL-00171" summary="Fixed back buttons 3">
+      <created>1652261293554</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1652261293554</updated>
+    </task>
+    <option name="localTasksCounter" value="172" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Fixed JS script 2" />
+    <MESSAGE value="Fixed JS script 3" />
+    <MESSAGE value="Add promocode" />
+    <MESSAGE value="Add post method for index.jsp" />
+    <MESSAGE value="Fixed promo.java" />
+    <MESSAGE value="Changed admin.jsp" />
+    <MESSAGE value="Fixing promocode" />
+    <MESSAGE value="Fixing promocode 2" />
+    <MESSAGE value="Fixing promocode 3" />
+    <MESSAGE value="Fixing promocode 4" />
+    <MESSAGE value="Fixing promocode 5" />
+    <MESSAGE value="Fixing promocode 6" />
+    <MESSAGE value="Fixing promocode 7" />
+    <MESSAGE value="Fixing promocode 8" />
+    <MESSAGE value="Fixing promocode 9" />
+    <MESSAGE value="Fixing promocode 10" />
+    <MESSAGE value="Fixing promocode 11" />
+    <MESSAGE value="Fixing promocode 12" />
+    <MESSAGE value="Fixing promocode 13" />
+    <MESSAGE value="Fixing promocode 14" />
+    <MESSAGE value="Remove test things" />
+    <MESSAGE value="Add back buttons" />
+    <MESSAGE value="Fixed back buttons" />
+    <MESSAGE value="Fixed back buttons 2" />
+    <MESSAGE value="Fixed back buttons 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed back buttons 3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint type="java-exception">
+          <properties class="com.itextpdf.text.ExceptionConverter" package="com.itextpdf.text" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
